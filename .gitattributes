@@ -1,2 +1,2 @@
-GigHub/Scripts/* linguist-vendored
-GigHub/Content/* linguist-vendored
+public/js/* linguist-vendored
+public/css/* linguist-vendored
