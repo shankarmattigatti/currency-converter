@@ -4,4 +4,4 @@ Simple Currency Converter
 
 ## Image
 
-![Alt text](/currency-converter.jpg?raw=true "currency converter")
+![currency converter](https://github.com/shankarmattigatti/currency-converter/blob/master/currency-converter.jpg)
